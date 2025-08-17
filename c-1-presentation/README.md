@@ -6,12 +6,29 @@
 
 <details>
 <summary><strong>Introduction</strong></summary>
+
+**Competitors**
+
+- Andrei Amancia RO
+- Ivan Polák SK
+- Urban Krepel SI
+- Olivér Mrakovics HU
+- Marcell Györfi HU
+
+**Experts**
+
+- Martin Dagarin SI
+- Alexandru Podariu RO
+- Matej Novota SK
+- János Hidvégi HU
+- Zoltán Sisák HU
+
 </details>
 
 <details>
 <summary><strong>EuroSkills 2025 S17 Competition Overview</strong></summary>
 
-- Competitiom Schedule
+- [Competition Schedule](https://skill-management.worldskills.org/#/plan/2068/day/C1)
 - [Infrastructure List](es2025-software-infrastructure-list.pdf)
 - Test Project Outline
   - [ES2023 Test Project Outline](es2023/es2023-s17-tp-outline.md)
