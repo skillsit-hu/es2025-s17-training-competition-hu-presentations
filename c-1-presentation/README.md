@@ -4,15 +4,13 @@
 
 ## C-1
 
-### Introduction
-
 <details>
-
+<summary><strong>Introduction</strong></summary>
 </details>
 
-### EuroSkills 2025 S17 Competition Overview
-
 <details>
+<summary><strong>EuroSkills 2025 S17 Competition Overview</strong></summary>
+
 - Competitiom Schedule
 - [Infrastructure List](es2025-software-infrastructure-list.pdf)
 - Test Project Outline
@@ -22,6 +20,7 @@
   - [ES2025 Test Project Outline](es2025-s17-tp-outline.md)
   - [ES2023 - ES2025 Test Project Outline](es2023-es2025-s17-tp-outline-comparison.md)
 - Best Practicies
+
 </details>
 
 ![Skills IT](https://httpf.s3.eu-west-1.amazonaws.com/skillsit/skillsit-members-2025-wide.png)
